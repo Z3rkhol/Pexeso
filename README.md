@@ -69,6 +69,3 @@ Hra zkontroluje, zda je vybraná karta již otočena, než umožní hráči pokr
     - Pokud se obě karty shodují, zůstanou lícem nahoru; jinak se po krátké pauze otočí zpět.
     - Proces se opakuje, dokud nejsou nalezeny všechny páry, nebo v režimu pro dva hráče, dokud jeden hráč nemá více párů než druhý.
 
-## Závěr
-Pexeso je zábavné a jednoduché pexeso, které lze hrát sami nebo s kamarádem. Hra je skvělý způsob, jak zlepšit koncentraci a paměťové schopnosti. Šťastné párování!
-
